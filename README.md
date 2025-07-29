@@ -6,6 +6,8 @@ This repository is **my central hub for machine learning models** developed for 
 
 Whether I'm looking back at past work, learning new techniques, or simply sharing my creations, this repository aims to be a comprehensive resource showcasing my practical machine learning applications.
 
+![Kaggle Logo](https://www.kaggle.com/static/brand-guidelines/kaggle-logo-transparent.png)
+
 ---
 
 ### Common Machine Learning Models I Use
