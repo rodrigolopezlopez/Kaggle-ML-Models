@@ -12,11 +12,11 @@ Whether I'm looking back at past work, learning new techniques, or simply sharin
 
 Here's a concise list of frequently used machine learning models you'll often find in my work:
 
-* **Supervised Learning (Works with labeled data):**
-    * **For predicting continuous values (Regression):** Linear Regression, Ridge/Lasso Regression, Support Vector Regression (SVR), Decision Trees, Random Forests, Gradient Boosting Machines (like XGBoost, LightGBM, CatBoost), K-Nearest Neighbors (KNN).
-    * **For predicting categories (Classification):** Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting Machines (XGBoost, LightGBM, CatBoost), Naive Bayes, Artificial Neural Networks (ANNs).
+* **Supervised Learning:**
+    * **For predicting continuous values (Regression):** Linear Regression, Ridge/Lasso Regression, Support Vector Regression (SVR), Decision Trees, Random Forests, Gradient Boosting Machines (like XGBoost, LightGBM), K-Nearest Neighbors (KNN).
+    * **For predicting categories (Classification):** Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting Machines (XGBoost, LightGBM), Naive Bayes.
 
-* **Unsupervised Learning (Finds patterns in unlabeled data):**
+* **Unsupervised Learning:**
     * **For grouping similar data (Clustering):** K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models (GMM).
     * **For reducing the number of features (Dimensionality Reduction):** Principal Component Analysis (PCA), t-SNE, UMAP.
 
