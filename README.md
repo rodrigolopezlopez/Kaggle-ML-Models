@@ -20,7 +20,7 @@ Here's a concise list of frequently used machine learning models you'll often fi
     * **For grouping similar data (Clustering):** K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models (GMM).
     * **For reducing the number of features (Dimensionality Reduction):** Principal Component Analysis (PCA), t-SNE, UMAP.
 
-* **Ensemble Methods (Combine multiple models for better performance):**
+* **Ensemble Methods:**
     * **Bagging:** Like **Random Forest**, where multiple models are trained independently.
     * **Boosting:** Such as **AdaBoost** and **Gradient Boosting** (including XGBoost), where models are built sequentially, correcting previous errors.
     * **Stacking:** Combines predictions from diverse models using a "meta-model."
