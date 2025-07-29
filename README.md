@@ -1,4 +1,4 @@
-# kaggle_models
+# Kaggle Models
 
 ---
 
