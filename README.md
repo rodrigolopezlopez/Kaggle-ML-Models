@@ -2,15 +2,15 @@
 
 ---
 
-This repository is your **central hub for machine learning models** developed for **Kaggle competitions and personal projects**. It's designed to store and organize a diverse collection of solutions, approaches, and predictive models across various problem types.
+This repository is **my central hub for machine learning models** developed for **Kaggle activities and personal projects**. I designed it to store and organize my diverse collection of solutions, approaches, and predictive models across various problem types.
 
-Whether you're looking for past work, learning new techniques, or simply sharing your creations, this repository aims to be a comprehensive resource showcasing practical machine learning applications.
+Whether I'm looking back at past work, learning new techniques, or simply sharing my creations, this repository aims to be a comprehensive resource showcasing my practical machine learning applications.
 
 ---
 
-### Common Machine Learning Models
+### Common Machine Learning Models I Use
 
-Here's a concise list of frequently used machine learning models you'll often encounter in data science:
+Here's a concise list of frequently used machine learning models you'll often find in my work:
 
 * **Supervised Learning (Works with labeled data):**
     * **For predicting continuous values (Regression):** Linear Regression, Ridge/Lasso Regression, Support Vector Regression (SVR), Decision Trees, Random Forests, Gradient Boosting Machines (like XGBoost, LightGBM, CatBoost), K-Nearest Neighbors (KNN).
