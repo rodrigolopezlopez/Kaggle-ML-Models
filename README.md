@@ -2,9 +2,9 @@
 
 ---
 
-This repository is **my central hub for machine learning models** developed for **Kaggle activities and personal projects**. I designed it to store and organize my diverse collection of solutions, approaches, and predictive models across various problem types.
+This repository is my central hub for machine learning models and experimental design approaches developed for Kaggle activities and personal projects. I designed it to store and organize my diverse collection of solutions, predictive models, and strategies for understanding causal relationships across various problem types.
 
-Whether I'm looking back at past work, learning new techniques, or simply sharing my creations, this repository aims to be a comprehensive resource showcasing my practical machine learning applications.
+Whether I'm looking back at past work, learning new techniques, or simply sharing my creations, this repository aims to be a comprehensive resource showcasing my practical machine learning applications and my commitment to data-driven causal inference.
 
 ---
 
